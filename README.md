@@ -7,6 +7,7 @@ Financial Health Dashboard: Step-by-Step Guide
 # 1. Project Objective and Requirements
 Objective:
 Develop an interactive Power BI dashboard that provides a comprehensive analysis of an organization's financial status, tailored for Small and Medium Enterprises (SMEs).
+
 Key Requirements:
 Visualize income statements, balance sheets, and cash flows.
 Analyze profitability trends over time.
@@ -70,7 +71,7 @@ Configure the forecast (e.g., Forecast points: 12, Seasonality: 12 for monthly d
 # 4. Usage and Interactivity
 The final report should be fully interactive. Users can leverage the slicers to filter data by region or time period, hover over visuals for specific details, and use the different report tabs to switch between profitability trends, detailed statements, and forecasts.
 
-Conclusion:
+# Conclusion:
 The Power BI Financial Health Dashboard provides a robust, interactive solution for SMEs to monitor and analyze their financial performance using real-time insights, core financial statement visualization (income statement, balance sheet, cash flows), profitability trends, and built-in forecasting capabilities.
 By following the provided steps using the Microsoft Financial Sample Excel workbook, users can create a powerful, dynamic tool to inform strategic decision-making and enhance financial planning within their organizations.
 
