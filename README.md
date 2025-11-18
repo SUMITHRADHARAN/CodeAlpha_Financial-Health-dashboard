@@ -21,16 +21,19 @@ Dataset: This project uses the Microsoft Financial Sample Excel workbook as the 
 
 4. Step-by-Step Setup Instructions
 Follow these steps to load the data and build the core report structure:
+
 Step 3.1: Load the Data into Power BI Desktop
 Open Power BI Desktop.
 On the Home ribbon, click Get data > Excel workbook.
 Select the financial-sample.xlsx file you downloaded.
 In the Navigator window, select the financials table and click Load.
+
 Step 3.2: Transform Data (Power Query Editor)
 You can clean the data slightly using the Power Query Editor:
 Click Transform data on the Home ribbon (if you didn't do it during the load, go to Home > Edit queries).
 Ensure all columns have the correct data types (e.g., Date, Currency, Decimal Number).
 Close & Apply changes.
+
 Step 3.3: Create Key Performance Indicators (KPIs)
 Create core measures using Data Analysis Expressions (DAX) to enable analysis:
 In the Fields pane, right-click the financials table and select New measure.
