@@ -41,6 +41,7 @@ Create measures for:
 Total Revenue: Total Revenue = SUM(financials[ Sales ])
 Total Profit: Total Profit = SUM(financials[Profit])
 Gross Margin %: Gross Margin % = DIVIDE([Total Profit], [Total Revenue])
+
 Step 3.4: Visualize Profitability Trends
 Create the first report page focusing on profitability over time:
 Page Title: Add a text box labeled "Profitability Analysis".
