@@ -4,7 +4,7 @@ A Power BI dashboard for SMEs analyzing financial health. Features include visua
 This README provides step-by-step guidance on setting up and using the Financial Health Dashboard, a Power BI solution designed to help SMEs analyze their financial status with real-time insights, budgeting tools, and forecasting capabilities.
 Financial Health Dashboard: Step-by-Step Guide
 
-1. Project Objective and Requirements
+# 1. Project Objective and Requirements
 Objective:
 Develop an interactive Power BI dashboard that provides a comprehensive analysis of an organization's financial status, tailored for Small and Medium Enterprises (SMEs).
 Key Requirements:
@@ -14,12 +14,12 @@ Provide forecasting for budgeting and financial planning.
 Deliverable:
 An interactive Power BI .pbix report file with dynamic visualizations and actionable insights.
 
-3. Getting Started: Prerequisites
+# 2. Getting Started: Prerequisites
 Before you begin, ensure you have the necessary software and data:
 Software: Download and install Power BI Desktop (free).
 Dataset: This project uses the Microsoft Financial Sample Excel workbook as the foundational data source. Download and save this Excel file locally.
 
-4. Step-by-Step Setup Instructions
+# 3. Step-by-Step Setup Instructions
 Follow these steps to load the data and build the core report structure:
 
 Step 3.1: Load the Data into Power BI Desktop
@@ -67,7 +67,7 @@ In the Visualizations pane, click the Analytics icon (the magnifying glass).
 Expand the Forecast section and click Add.
 Configure the forecast (e.g., Forecast points: 12, Seasonality: 12 for monthly data). This will add a projection line to your chart.
 
-6. Usage and Interactivity
+# 4. Usage and Interactivity
 The final report should be fully interactive. Users can leverage the slicers to filter data by region or time period, hover over visuals for specific details, and use the different report tabs to switch between profitability trends, detailed statements, and forecasts.
 
 Conclusion:
